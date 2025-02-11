@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circulars
   address: >
-    <p>liyuxuan[at]stanford[dot]edu</p>
+    <p>liyuxuan[at]google[dot]com</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
