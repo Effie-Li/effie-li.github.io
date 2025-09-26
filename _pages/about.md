@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Research Scientist at Google DeepMind. I am broadly interested in machine and human cognition, and the mechanisms that support these abilities in deep learning models and the human brain. Some of my recent works include [evaluating zero-shot visual reasoning in video models](https://video-zero-shot.github.io/) and [understanding in-context task representations in language models] (https://arxiv.org/abs/2509.04466).
+I am Research Scientist at Google DeepMind. I am broadly interested in machine and human cognition, and the mechanisms that support these abilities in deep learning models and the human brain. Some of my recent works include [evaluating zero-shot visual reasoning in video models](https://video-zero-shot.github.io/) and [understanding in-context task representations in language models](https://arxiv.org/abs/2509.04466).
 
 My PhD research investigated a learning theory of task decomposition in transformers and humans. I also worked on multi-modal LLM evaluation and embodied AI as interns at Meta and AI2, and spent time building neural decoders of human episodic memory at UPenn.
 <br>
